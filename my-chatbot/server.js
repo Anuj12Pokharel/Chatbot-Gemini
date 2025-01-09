@@ -20,7 +20,7 @@ const csvWriter = createObjectCsvWriter({
   ],
 });
 
-const GEMINI_API_KEY = "AIzaSyCPMHFT5RArsOUQ9mlUqzuewZd6addNFSQ";
+const GEMINI_API_KEY = "Hi Hello Enter your gemini Api key";
 const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
 
 let userSessionData = {};
